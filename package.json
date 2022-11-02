@@ -1,0 +1,23 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "start": "harp server --port $PORT"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gus199/weather-app.git"
+  },
+  "author": "Amar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gus199/weather-app/issues"
+  },
+  "homepage": "https://github.com/Gus199/weather-app#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.18.2",
+    "harp": "*"
+  }
+}
